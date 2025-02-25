@@ -1,6 +1,0 @@
-Mon Feb 24 20:24:52 UTC 2025
-Hello, Dennis!
-Директория: /opt/131224-wdm/dennis
-0
--rw-r--r--
-[ec2-user@ip-10-0-42-153 dennis]$
