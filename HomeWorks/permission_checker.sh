@@ -14,5 +14,5 @@ for FILE in $FILES; do
         echo "Added execution permissions for file: $FILE"
     done
 else
-    echo "No files with .sh extension were found in directory $DIR."
+    echo "No files with .sh extension were found in directory: $DIR."
 fi
