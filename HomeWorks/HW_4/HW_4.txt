@@ -1,0 +1,9 @@
+   0 date +%D > file.txt
+   1 df -h | grep G >> fole.txt
+   2 df -h | grep G >> file.txt
+   3 history | tail -n 3 >> file.txt
+   4 clear
+   5 grep cron /etc/passwd >> file.txt
+   6 grep root /etc/group | wc -l >> file.txt
+   7 nano file.txt
+   8 history > history.txt
